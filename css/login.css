@@ -1,0 +1,45 @@
+#loginform {
+
+    background-color:  #e6e6e6;
+    border: 1px solid #42464b;
+    border-radius: 6px;
+    margin: 100px auto;
+    width: 35%;
+    padding: 60px;
+    font-family: 'Sofia';
+    font-size: 17px;
+
+}
+
+.logininput {
+
+    font-family: 'Sofia';
+    font-size: 17px;
+    width: 100%;
+    
+}
+
+.loginlabel {
+
+    padding: 0px;
+    font-family: 'Sofia';
+    font-size: 17px;
+    color: green;
+
+}
+
+
+#loginbutton {
+
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+
+
+}
+
+#loginMessage {
+
+    color: green;
+
+}

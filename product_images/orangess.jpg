@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="content-type" name="description" content="Hexagonal packing of oranges at one of the many stands where you can get freshy-squeezed orange juice in the Djemaa el Fna main square in Marrakesh.
+" />
+	<meta name="google-site-verification" content="MB_qNDfxBA3DnF4txWRxKSjPHEiv7x9KjmhejTXeDz4" />
+
+    <title>Wojciech Jarosz Photography • "Moroccan Oranges"</title>
+
+	<!-- fb meta -->
+	<meta property="og:title"       content="Moroccan Oranges"/>
+	<meta property="og:type"        content="wjaroszphotography:article" /> 
+	<meta property="og:url"         content="http://photoblog.wojciechjarosz.com/photo/461"/>
+	<meta property="og:image"       content="http://photoblog.wojciechjarosz.com/images/20110228221012__mg_2203.jpg"/>
+	<meta property="og:site_name"   content="Wojciech Jarosz Photography"/>
+	<meta property="fb:app_id"      content="205900492799128" /> 
+	<meta property="og:description" content="Hexagonal packing of oranges at one of the many stands where you can get freshy-squeezed orange juice in the Djemaa el Fna main square in Marrakesh.
+"/>
+	<!-- end fb meta -->
+	
+	<link rel="image_src" href="http://photoblog.wojciechjarosz.com/thumbnails/thumb_20110228221012__mg_2203.jpg" />
+
+    <base href="http://photoblog.wojciechjarosz.com/" />
+
+    <!-- Bootstrap Core CSS -->
+    <link href="templates/responsivePixels/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="templates/responsivePixels/css/custom.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    
+    <link href="templates/responsivePixels/css/bootstrap-social.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+		if (document.images)
+		{
+			pic1=new Image(900,600); 
+			pic1.src='images/o_20110228221012__mg_2203.jpg'; 
+		}
+		var rawOn = true;
+		function toggleSecretImage()
+		{
+			var linkText  = rawOn ? '<i class="fa fa-toggle-off fa-fw"></i><span class="hidden-xs">&nbsp;Unprocessed</span>' : '<i class="fa fa-toggle-on fa-fw"></i><span class="hidden-xs">&nbsp;Processed</span>';
+			var imagePath = rawOn ? 'images/o_20110228221012__mg_2203.jpg' : 'images/20110228221012__mg_2203.jpg';
+			
+			document.getElementById("main-photo").src = imagePath;
+			$("#secretLink").html(linkText);
+			rawOn = !rawOn;
+		}
+	</script>
+    <style>
+/* 
+    div#___plusone_0 {
+	  vertical-align: middle !important;
+	}
+ */
+    </style>
+</head>
+
+<body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	<nav role="navigation" class="navbar navbar-static-top">
+		<div class="navbar-header pull-left">
+			<ul class="nav nav-pills">
+				<li style="font-size: 142%; line-height: 1.0;"><a href="http://photoblog.wojciechjarosz.com/">Wojciech Jarosz<span class="hidden-xs"> Photography</span></a>
+			</ul>
+		</div>
+		<div class="navbar-header pull-right">
+			<ul class="nav nav-pills">
+				<li><a href="#" id="secretLink" onclick="toggleSecretImage(); return false;" title="Toggle RAW/JPG image"><i class="fa fa-toggle-on fa-fw"></i><span class="hidden-xs">&nbsp;Processed</span></a></li>
+				<li><a href="photo/460"><i class="fa fa-chevron-left fa-fw"></i><span class="hidden-xs">&nbsp;Previous</span></a></li>
+				<li><a href="photo/462"><span class="hidden-xs">Next&nbsp;</span><i class="fa fa-chevron-right fa-fw"></i></a></li>
+				<li><a href="http://photoblog.wojciechjarosz.com/browse/1"><i class="fa fa-th fa-fw"></i><span class="hidden-xs">&nbsp;Archive</span></a></li>
+				<li><a href="about/"><span class="fa fa-info-circle"></span><span class="hidden-xs">&nbsp;About</span></a></li>
+			</ul>
+		</div>
+	</nav>
+    
+	<div class="photo-container">
+		<a href="photo/460" title="View previous image: &quot;Djemaa el Fna, Marrakech&quot;"><div class="prev-photo-nav"></div></a><a href="photo/462" title="View next image: &quot;Marrakech Souqs&quot;"><div class="next-photo-nav"></div></a>
+		<img id="main-photo" src="images/20110228221012__mg_2203.jpg" alt="Moroccan Oranges" title="Moroccan Oranges" style="object-fit: contain; width:100%; max-height: 110vh;" />
+	</div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-7">
+                <h4><a href="photo/461">Moroccan Oranges</a></h4>
+                <p>Hexagonal packing of oranges at one of the many stands where you can get freshy-squeezed orange juice in the Djemaa el Fna main square in Marrakesh.</p>
+
+                <div class="center-block text-center">
+					<div style="display: inline-block; vertical-align: middle; font-size: 0.1px;">
+						<div class="fb-like" style="display: inline-block" data-href="http://photoblog.wojciechjarosz.com/photo/461" data-layout="button_count" data-colorscheme="dark" data-action="like" data-show-faces="false" data-share="true"></div>
+					</div>
+					<div style="display: inline-block; vertical-align: middle; font-size: 0.1px;">
+						<div class="g-plusone" style="display: inline-block" data-size="medium" data-href="http://photoblog.wojciechjarosz.com/photo/461"></div>
+					</div>
+				</div>
+
+            </div>
+            <div class="col-sm-5">
+                <h4>Metadata</h4>
+				<ul>
+					<li>Camera: Canon EOS 5D Mark II</li>
+					<li>Focal length: 200 mm</li>
+					<li>Aperture: f/2.8</li>
+					<li>Shutter: 1/250 sec</li>
+					<li>ISO: 50</li>
+					<li>Date taken: 2010-12-26 11:52:21</li>
+					<li>Date posted: 2011-02-28 22:10:12</li>
+					<li>Categories:  <a href='index.php?x=browse&amp;category=3'>[Color]</a> &nbsp;<a href='index.php?x=browse&amp;category=33'>[Morocco]</a> &nbsp;<a href='index.php?x=browse&amp;category=4'>[Nature]</a> &nbsp;<a href='index.php?x=browse&amp;category=9'>[Plants]</a> &nbsp;</li>
+				</ul>
+            </div>
+        </div>
+    </div><!-- /container -->
+
+    <div class="well well-sm small text-center">
+    &copy; 2007-2018 Wojciech Jarosz &bull; <a href="admin/index.php">Admin Login</a>
+    </div>
+
+    <!-- jQuery -->
+    <script src="templates/responsivePixels/js/jquery.js"></script>
+    <script type="text/javascript" src="templates/responsivePixels/scripts/sexyPixels.js"></script>
+ 	<script type="text/javascript">
+		//<![CDATA[
+		$(document).ready(function(){
+			addKeyNavigation(460 != 461, "http://photoblog.wojciechjarosz.com/photo/460",
+							 462 != 461, "http://photoblog.wojciechjarosz.com/photo/462",
+							 "http://photoblog.wojciechjarosz.com/", "http://photoblog.wojciechjarosz.com/browse/1", "about/");
+		});
+		//]]>
+	</script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="templates/responsivePixels/js/bootstrap.min.js"></script>
+	
+	<!-- Start of StatCounter Code -->
+	<script type="text/javascript">
+	var sc_project=4993530; 
+	var sc_invisible=1; 
+	var sc_partition=57; 
+	var sc_click_stat=1; 
+	var sc_security="10a79c79"; 
+	</script>
+	
+	<script type="text/javascript"
+	src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div
+	class="statcounter"><a title="joomla counter"
+	class="statcounter"
+	href="http://www.statcounter.com/joomla/"><img
+	class="statcounter"
+	src="http://c.statcounter.com/4993530/0/10a79c79/1/"
+	alt="joomla counter" /></a></div></noscript>
+	<!-- End of StatCounter Code -->
+	
+	<!-- Start of Google Analytics Code -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-3059723-3");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Google Analytics Code -->
+
+	<!-- Place this tag in your head or just before your close body tag. -->
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
+</body>
+
+</html>

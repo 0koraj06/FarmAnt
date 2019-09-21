@@ -1,0 +1,51 @@
+#add_title {
+    
+    text-align: center;
+    margin: 20px;
+    
+}
+
+#add_panel {
+     
+    width: 85%;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    margin: 0 auto;
+    
+}
+
+table.add_table {
+    
+    width: 100%;
+    
+}
+
+.add_table th {
+    
+    background-color: rgba(0, 100, 0, 0.5);
+    color: white;
+    height: 50px;
+    vertical-align: middle;
+    
+}
+
+.add_table tr {
+    
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.2);
+    height: 35px;
+    text-align: center;
+    color: white;
+    
+}
+
+.add_table tr:nth-child(odd) {
+    
+    background-color: rgba(0, 100, 0, 0.2);
+    
+}
+
+.add_table td {
+    
+    vertical-align: middle;
+    
+}
